@@ -1,9 +1,9 @@
 {
   "apis": [
     {
-      "nombre": "filing-code-api",
-      "url": "https://filing-code-api.apps-pruebas.credibanco.com",
-      "escenarios": [
+      "name": "filing-code-api",
+      "host": "https://filing-code-api.apps-pruebas.credibanco.com",
+      "scenarios": [
         {
           "id": 1,
           "path": "/filing-code/request",
