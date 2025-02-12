@@ -1,4 +1,6 @@
 {
+  "project":"Test Onboarding",
+  "environment":"prepod",
   "email": "ingfrecab@gmail.com",
   "apis": [
     {
