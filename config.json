@@ -3,6 +3,7 @@
     {
       "name": "filing-code-api",
       "host": "https://filing-code-api.apps-pruebas.credibanco.com",
+      "mail": "ingfrecab@gmail.com",
       "scenarios": [
         {
           "id": 1,
