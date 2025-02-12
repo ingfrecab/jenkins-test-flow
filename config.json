@@ -1,0 +1,23 @@
+{
+  "apis": [
+    {
+      "nombre": "filing-code-api",
+      "url": "https://filing-code-api.apps-pruebas.credibanco.com",
+      "escenarios": [
+        {
+          "id": 1,
+          "path": "/filing-code/request",
+          "method": "POST",
+          "contentType": "application/json",
+          "body": "{\"entity\": \"erte\",\"nit\": \"011687003\"}"
+        },
+        {
+          "id": 2,
+          "path": "/test2",
+          "method": "GET",
+          "contentType": "application/json"
+        }
+      ]
+    }
+  ]
+}
