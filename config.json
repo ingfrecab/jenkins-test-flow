@@ -20,7 +20,7 @@
     },
     {
       "name": "merchant-create-api",
-      "host": "https://incocredito-merchant-api.apps.cluospruv4.credivisa.local",
+      "host": "https://incocredito-merchant-api.apps-pruebas.credibanco.com",
       "scenarios": [
         {
           "id": 1,
