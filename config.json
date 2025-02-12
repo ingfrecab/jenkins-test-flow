@@ -10,12 +10,6 @@
           "method": "POST",
           "contentType": "application/json",
           "body": "{\"entity\": \"erte\",\"nit\": \"011687003\"}"
-        },
-        {
-          "id": 2,
-          "path": "/test2",
-          "method": "GET",
-          "contentType": "application/json"
         }
       ]
     }
