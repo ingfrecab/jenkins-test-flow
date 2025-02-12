@@ -2,6 +2,13 @@
   "project":"Test Onboarding",
   "environment":"prepod",
   "email": "ingfrecab@gmail.com",
+  "sso": {
+    "username": "rootusr",
+    "password": "Rootusr2025*",
+    "client_id": "b2b-api",
+    "client_secret": "31402fc1-085d-4f9e-b8b7-12153e50634c",
+    "url": "https://sso-sso-pruebas.apps-pruebas.credibanco.com/auth/realms/credibanco/protocol/openid-connect/token"
+  },
   "apis": [
     {
       "name": "filing-code-api",
